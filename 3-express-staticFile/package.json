@@ -1,0 +1,17 @@
+{
+  "name": "3-express-staticfile",
+  "version": "1.0.0",
+  "description": "1. Create a npm project and install Express.js\r 2. Create an Express.js app which servers two HTML files for \"/\" and \"/users\"\r 3. Add some static(.js or .css)files to your project that should be reuqired by at least one of your HTML files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}

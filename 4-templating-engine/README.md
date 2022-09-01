@@ -6,4 +6,9 @@
 - '/': Holds a <form> that allows users to input their name
 - '/users': outputs an <ul>with the user names(or some error text)
 
-TODO: Fix Error: Could not find matching close tag for "<%".
+## Setup
+
+`npm install`  
+`npm start`
+
+Open browser and insert `localhost:3000`
